@@ -1,0 +1,5 @@
+@baseUrl = http://localhost
+
+##
+GET {{baseUrl}}/users/1207081212892553299
+x-secret:  

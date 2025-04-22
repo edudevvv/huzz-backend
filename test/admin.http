@@ -1,0 +1,5 @@
+@baseUrl = https://admin.huzz.wtf
+
+##
+GET {{baseUrl}}/auth/all
+x-secret: adminfodaofodaofodao
